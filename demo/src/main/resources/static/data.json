@@ -1,0 +1,31 @@
+{
+	"Problems": [
+		{
+			"Ques Number": 2,
+			"Name": "Add Two Numbers",
+			"Best Solution": {
+				"Name": "Beats 100% || C++ || JAVA || PYTHON || Beginner Friendly",
+				"Url": "https://leetcode.com/problems/add-two-numbers/solutions/3675747/beats-100-c-java-python-beginner-friendly/"
+			},
+			"Learnings": {}
+		},
+		{
+			"Ques Number": 3,
+			"Name": "Longest Substring Without Repeating Characters",
+			"Best Solution": {
+				"Name": "3 Method's || C++ || JAVA || PYTHON || Beginner Friendly",
+				"Url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/3649636/3-method-s-c-java-python-beginner-friendly/"
+			},
+			"Learnings": {}
+		},
+		{
+			"Ques Number": 5,
+			"Name":  "Longest Palindromic Substring",
+			"Best Solution": {
+				"Name": "Beats 96.49% 🔥 || 5 Different Approaches 💡 || Brute Force || EAC || DP || MA || Recursion ||",
+				"Url": "https://leetcode.com/problems/longest-palindromic-substring/solutions/4212564/beats-96-49-5-different-approaches-brute-force-eac-dp-ma-recursion/"
+			},
+			"Learnings": {}
+		}
+	]
+}
